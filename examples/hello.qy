@@ -1,0 +1,6 @@
+func greet(name) {
+    return "Привет, " + name
+}
+
+let creator = "Nexu_scoder"
+print(greet(creator))

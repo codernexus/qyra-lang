@@ -1,0 +1,8 @@
+func add(a: Int, b: Int) -> Int {
+    return a + b
+}
+
+let project: Text = "Qyra"
+let version: Float = 0.3
+var total: Int = add(20, 22)
+print(project, version, total)
