@@ -4,7 +4,7 @@
 
 # Qyra 0.3.0-alpha.1
 
-Qyra is an experimental statically checked programming language project founded by **Трифон Ярослав Владимирович (Nexu_scoder)**.
+Qyra is an experimental statically checked programming language project founded by **Трифон Ярослав Васильович (Nexu_scoder)**.
 
 This public alpha contains a working lexer, parser, AST, primitive type checker, bytecode compiler and stack virtual machine. It is suitable for experimentation, education and compiler development. It is **not production-ready**.
 
@@ -63,7 +63,7 @@ See [STATUS.md](docs/STATUS.md), [ARCHITECTURE.md](docs/ARCHITECTURE.md), [ROADM
 
 ## Leadership
 
-Founder and Lead Language Designer: **Трифон Ярослав Владимирович**  
+Founder and Lead Language Designer: **Трифон Ярослав Васильович**  
 Developer alias: **Nexu_scoder**
 
 ## License
